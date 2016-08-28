@@ -1,7 +1,7 @@
 {
   "name": "sequence-diagram",
   "main": "./src/main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple, textual way to draw sequence diagrams in Atom",
   "keywords": [
     "message",
