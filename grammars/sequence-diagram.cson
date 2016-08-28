@@ -1,0 +1,9 @@
+'name': 'Sequence Diagram'
+'scopeName': 'source.sd'
+'fileTypes': [
+  'sd',
+  'sequence',
+  'sequencediagram'
+]
+'patterns': [
+]

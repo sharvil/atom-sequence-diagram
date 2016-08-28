@@ -1,0 +1,27 @@
+{
+  "name": "sequence-diagram",
+  "main": "./src/main",
+  "version": "0.0.1",
+  "description": "A simple, textual way to draw sequence diagrams in Atom",
+  "keywords": [
+    "message",
+    "sequence",
+    "chart",
+    "diagram",
+    "msc",
+    "atom"
+  ],
+  "activationCommands": {
+    "atom-workspace": "sequence-diagram:toggle"
+  },
+  "repository": "https://github.com/sharvil/atom-sequence-diagram",
+  "license": "Apache 2.0",
+  "engines": {
+    "atom": ">=0.174.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2",
+    "node-sequence-diagram": ">=1.0.1",
+    "underscore": "^1"
+  }
+}

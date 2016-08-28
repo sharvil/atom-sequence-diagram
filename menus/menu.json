@@ -1,0 +1,8 @@
+{
+  "context-menu": {
+    ".sequence-diagram-view": [{
+      "label": "Export as SVG...",
+      "command": "sequence-diagram:export"
+    }]
+  }
+}
